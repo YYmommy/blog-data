@@ -1,8 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "張晶"
+title = "李玉平"
 theme = "ivy"
-disqusShortname = "zhangakira"
+disqusShortname = "YYmommy"
 [menu]
 [[menu.main]]
   identifier = 'blog'
@@ -11,21 +11,15 @@ disqusShortname = "zhangakira"
   url = '/cn/daily/'
   weight = -110
 [[menu.main]]
-  identifier = 'menu'
-  name = '菜谱'
-  title = 'blog section'
-  url = '/cn/menu/'
-  weight = -100
-[[menu.main]]
   identifier = 'about'
   name = "关于"
   title = 'blog section'
   url = '/cn/about/'
   weight = -11
 [params]
-footer = "&copy; [Jing Zhang](/) 2010 - 2021"
+footer = "&copy; [YuPing Li](/) 2022 - "
 [params.logo.en]
 img = "/images/logo.png"
 url = "/"
-alt = "Jing Zhang"
+alt = "YuPing Li"
 tag = ""
