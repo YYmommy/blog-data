@@ -5,4 +5,5 @@ My personal blog using issues and GitHub Actions (参考 [yihong](https://github
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [故作坚强的弟弟](https://github.com/YYmommy/blog-data/issues/2)--2022-11-15
 - [tesst](https://github.com/YYmommy/blog-data/issues/1)--2022-10-11
